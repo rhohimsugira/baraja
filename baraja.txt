@@ -1,4 +1,6 @@
 Testing baraja
 1. ko nomor 1
 2. ko nomor 2
-3. ko nomor 3
+4. ko tambahan part 2
+5. tambahan lo liak di part 2
+6. tambah liak part 2
